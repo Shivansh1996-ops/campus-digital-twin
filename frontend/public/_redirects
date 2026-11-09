@@ -1,0 +1,3 @@
+/api/*  /offline.json  404!
+/ws/*   /offline.json  404!
+/*      /index.html    200
