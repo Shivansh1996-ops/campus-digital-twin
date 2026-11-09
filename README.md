@@ -2,6 +2,41 @@
 
 An enterprise-grade smart campus command center and interactive 3D digital twin of **Marri Laxman Reddy Institute of Technology (MLRIT)**, Dundigal, Hyderabad, Telangana.
 
+<p align="center">
+  <img src="docs/screenshots/01-landing-hero.png" alt="MLRIT Twin landing page" width="100%" />
+</p>
+
+---
+
+## Screenshots
+
+### Landing
+| Hero | Workflows |
+|:----:|:---------:|
+| ![Landing hero](docs/screenshots/01-landing-hero.png) | ![Campus workflows](docs/screenshots/02-landing-workflows.png) |
+| ![End-to-end flow](docs/screenshots/03-landing-flow.png) | ![FAQ and CTA](docs/screenshots/04-landing-faq.png) |
+
+### 3D campus twin
+| Overview | CIET fly-to |
+|:--------:|:-----------:|
+| ![3D campus twin](docs/screenshots/05-3d-campus-twin.png) | ![CIET tower](docs/screenshots/06-3d-ciet.png) |
+
+<p align="center">
+  <img src="docs/screenshots/07-3d-energy-heatmap.png" alt="Energy heatmap on the 3D twin" width="100%" />
+</p>
+
+### Command center, GIS, and utilities
+| Command Center | Satellite GIS |
+|:--------------:|:-------------:|
+| ![Command Center](docs/screenshots/08-command-center.png) | ![Satellite GIS](docs/screenshots/09-satellite-gis.png) |
+| ![Energy grid](docs/screenshots/10-energy-grid.png) | ![Rooftop solar](docs/screenshots/11-rooftop-solar.png) |
+
+### Copilot, wastage, and what-if
+| AI Copilot | Wastage detector |
+|:----------:|:----------------:|
+| ![AI Copilot](docs/screenshots/12-ai-copilot.png) | ![Wastage detector](docs/screenshots/13-wastage-detector.png) |
+| ![What-if studio](docs/screenshots/14-what-if-studio.png) | ![Net-Zero 2028 scenario](docs/screenshots/15-what-if-net-zero.png) |
+
 ---
 
 ## 🚀 Live Access URLs
